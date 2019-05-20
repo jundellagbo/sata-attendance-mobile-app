@@ -14,6 +14,7 @@
 - React Native
 - PHP Laravel
 - MySQL
+- Node JS
 
 ## Screenshots
 
