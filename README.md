@@ -1,4 +1,4 @@
-## SATA ATTENDANCE WEB APPLICATION
+## SATA ATTENDANCE MOBILE APPLICATION
 
 ### Features: 
 - Tracks, Strand, Levels and Section Management
